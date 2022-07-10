@@ -1,82 +1,75 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "Clem Acosta",
     "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
+    "address": "Barranquilla, Colombia.",
+    "email": "cacosted@example.com",
     "website": "https://example.com",
     "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "avatar": "https://avatars.githubusercontent.com/u/57645180?v=4",
+    "profile": "Desarrollador Frontend con React && Vue • Estudiante y mentor en @Exercism • Estudiante de por vida • Entusiasta de la tecnología • Gamer por pasión",
     "certificate": [
       {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
+        "date": "Jun 2022",
+        "description": "Aprende desarrollo web con JavaScript. Practica los fundamentos de la programación para crear algoritmos que resuelven problemas en la vida real.",
         "institution": "Platzi",
-        "name": "FrontEnd Developer"
+        "name": "Curso Práctico de JavaScript"
       },
       {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
+        "date": "Jun 2021",
+        "description": "Cascading and Inheritance, exploring text styling fundamentals, understanding the use of layouts in CSS, understand the boxing of elements in CSS, among others.",
+        "institution": "HackerRank",
+        "name": "CSS (Basic) Certificate"
       }
     ],
-    "Academic": [
+    "academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
-        "startDate": "Jan 2018"
-      },
-      {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "Systems Engineer",
+        "description": "Profesional capaz de desempeñarse como desarrollador de software, administrador de redes y comunicaciones, en la automatización y control de procesos industriales",
+        "endDate": "Dec 2019",
+        "institution": "UBA",
+        "startDate": "Jan 2015"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "BaracoLab",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "Desarrollo de gameplay del jugador y de la AI",
+        "jobTitle": "Unity Game Developer",
+        "startDate": "Mar 2022"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "BaracoLab",
+        "endDate": "Aug 2021",
+        "jobDescription": "Desarrollo de app para grabación de meditaciones",
+        "jobTitle": "Flutter Developer",
+        "startDate": "May 2021"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "80%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "70%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "60%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "55%"
       }
     ],
     "interest": [
+      "frontend",
       "javascript",
-      "develop",
-      "backend",
-      "frontend"
+      "gaming",
+      "Web development"
     ],
     "languages": [
       {
@@ -85,7 +78,7 @@
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "70%"
       }
     ],
     "social": [
@@ -95,15 +88,15 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/"
+        "url": "https://twitter.com/cacosted"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/cacosted"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/cacosted"
       }
     ]
   }
